@@ -11,7 +11,7 @@ A Simple ChatBot Widget
 ![a](https://forthebadge.com/images/badges/makes-people-smile.svg)
 
 
-Check out the [Demo](http://ashwinshenoy.com/chatbot/)
+Check out the [Demo](https://iharshgaur.github.io/Dialogueflow_chatbot/)
 
 Kindly create an api.ai account and train the bot and integrate it in js/script.js file by using api.ai client key.
 
