@@ -2,7 +2,7 @@ $(document).ready(function() {
 
 	// Credentials
 	var baseUrl = "https://api.api.ai/v1/";
-	var accessToken = "1076b379ec4d4e0c914ef89d341208b7";
+	var accessToken = "c35f37ea4bc14d8e917f93509e2d8165";
 
 	//---------------------------------- Add dynamic html bot content(Widget style) ----------------------------
 	// You can also add the html content in html page and still it will work!
