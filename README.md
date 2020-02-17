@@ -1,4 +1,4 @@
-# ChatBot
+# Diagflow ChatBot
 A Simple ChatBot Widget
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
